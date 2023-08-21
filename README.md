@@ -1,6 +1,6 @@
 # Acuoz
 
-App for managing your school roadmap.
+App for Caring yoUr schOol Zuideline.
 
 ## Getting Started
 
