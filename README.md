@@ -1,6 +1,6 @@
-# acuoz
+# Acuoz
 
-A new Flutter project.
+App for managing your school roadmap.
 
 ## Getting Started
 
